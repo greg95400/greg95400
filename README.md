@@ -76,7 +76,7 @@ _Étudiant MIAGE_
         </a>
       </h3>
       <p style="margin:0 0 1rem; font-size:0.95rem; color:#57606a;">
-        Tactiques Pro Foot : dark mode, création de joueurs & formations.
+        Site de gestion d’équipe de football et de sa tactique avec Django.
       </p>
       <p style="margin:0;">
         <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
@@ -87,27 +87,24 @@ _Étudiant MIAGE_
     </div>
   </div>
 
-  <!-- Projet-INFO -->
-  <div style="flex:1 1 300px; border:1px solid #e1e4e8; border-radius:8px; overflow:hidden; box-shadow:0 2px 8px rgba(0,0,0,0.05);">
-    <img src="https://raw.githubusercontent.com/Noe932/Projet-INFO/main/assets/screenshot.png"
-         alt="Accueil Projet-INFO" style="width:100%; display:block;" />
-    <div style="padding:1rem;">
-      <h3 style="margin:0 0 .5rem; font-size:1.25rem;">
-        <a href="https://github.com/Noe932/Projet-INFO" target="_blank"
-           style="text-decoration:none; color:#24292e;">
-          🔗 Projet-INFO
-        </a>
-      </h3>
-      <p style="margin:0 0 1rem; font-size:0.95rem; color:#57606a;">
-        Application de gestion de données en <strong>Java • Spring Boot</strong>.
-      </p>
-      <p style="margin:0;">
-        <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" alt="Java" />
-        <img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=spring&logoColor=white" alt="Spring Boot" />
-        <img src="https://img.shields.io/github/stars/Noe932/Projet-INFO?style=social" alt="Stars" />
-        <img src="https://img.shields.io/github/forks/Noe932/Projet-INFO?style=social" alt="Forks" />
-      </p>
-    </div>
+ <!-- Projet-INFO -->
+<div style="flex:1 1 300px; border:1px solid #e1e4e8; border-radius:8px; overflow:hidden; box-shadow:0 2px 8px rgba(0,0,0,0.05);">
+  <div style="padding:1rem;">
+    <h3 style="margin:0 0 .5rem; font-size:1.25rem;">
+      <a href="https://github.com/Noe932/Projet-INFO" target="_blank"
+         style="text-decoration:none; color:#24292e;">
+        🔗 Projet-INFO
+      </a>
+    </h3>
+    <p style="margin:0 0 1rem; font-size:0.95rem; color:#57606a;">
+      Application de gestion de données en <strong>Java • Spring Boot</strong>.
+    </p>
+    <p style="margin:0;">
+      <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=spring&logoColor=white" alt="Spring Boot" />
+      <img src="https://img.shields.io/github/stars/Noe932/Projet-INFO?style=social" alt="Stars" />
+      <img src="https://img.shields.io/github/forks/Noe932/Projet-INFO?style=social" alt="Forks" />
+    </p>
   </div>
 
 </div>
