@@ -72,7 +72,7 @@ _Étudiant MIAGE_
       <h3 style="margin:0 0 .5rem; font-size:1.25rem;">
         <a href="https://github.com/Noe932/ProjetWeb2024" target="_blank"
            style="text-decoration:none; color:#24292e;">
-          🔗 ProjetWeb2024
+          🔗 Tactique Foot
         </a>
       </h3>
       <p style="margin:0 0 1rem; font-size:0.95rem; color:#57606a;">
@@ -93,11 +93,11 @@ _Étudiant MIAGE_
     <h3 style="margin:0 0 .5rem; font-size:1.25rem;">
       <a href="https://github.com/Noe932/Projet-INFO" target="_blank"
          style="text-decoration:none; color:#24292e;">
-        🔗 Projet-INFO
+        🔗 Visualition d'un algorithme de tri
       </a>
     </h3>
     <p style="margin:0 0 1rem; font-size:0.95rem; color:#57606a;">
-      Application de gestion de données en <strong>Java • Spring Boot</strong>.
+Outil combinant un parseur Python d’AST C et des implémentations en C d’algorithmes de tri, avec visualisation dynamique des étapes de tri sous forme de GIFs.
     </p>
     <p style="margin:0;">
       <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" alt="Java" />
