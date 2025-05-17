@@ -102,8 +102,6 @@ Outil combinant un parseur Python d’AST C et des implémentations en C d’alg
     <p style="margin:0;">
       <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" alt="Java" />
       <img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=spring&logoColor=white" alt="Spring Boot" />
-      <img src="https://img.shields.io/github/stars/Noe932/Projet-INFO?style=social" alt="Stars" />
-      <img src="https://img.shields.io/github/forks/Noe932/Projet-INFO?style=social" alt="Forks" />
     </p>
   </div>
 
