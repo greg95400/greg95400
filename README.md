@@ -20,7 +20,7 @@ _Étudiant MIAGE_
 ## 🛠️ Compétences
 
 <p align="center">
-  <!-- Langages de programmation -->
+  <!-- Langages -->
   <img alt="C" src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
@@ -47,7 +47,7 @@ _Étudiant MIAGE_
 </p>
 
 <p align="center">
-  <!-- Systèmes d'exploitation & bureautique -->
+  <!-- OS & bureautique -->
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
   <img alt="Word" src="https://img.shields.io/badge/Word-2B579A?logo=microsoftword&logoColor=white" />
   <img alt="Excel" src="https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white" />
@@ -55,7 +55,7 @@ _Étudiant MIAGE_
 </p>
 
 <p align="center">
-  <!-- Autres compétences -->
+  <!-- Autres -->
   <img alt="AI" src="https://img.shields.io/badge/AI-FC636B?logo=openai&logoColor=white" />
   <img alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white" />
   <img alt="Web Dev" src="https://img.shields.io/badge/Web%20Development-F1502F?logo=html5&logoColor=white" />
@@ -65,14 +65,12 @@ _Étudiant MIAGE_
 
 ## 🚀 Mes projets
 
-<div style="display:flex; gap:1rem; flex-wrap:wrap; margin-top:1rem;">
+<div style="display:flex; gap:1rem; flex-wrap:wrap; justify-content:center; margin-top:1rem;">
 
-  <!-- Projet 1 -->
+  <!-- ProjetWeb2024 -->
   <div style="flex:1 1 300px; border:1px solid #e1e4e8; border-radius:8px; overflow:hidden; box-shadow:0 2px 8px rgba(0,0,0,0.05);">
-    <!-- Image d’accueil -->
     <img src="https://raw.githubusercontent.com/Noe932/ProjetWeb2024/main/assets/home.png"
          alt="Accueil ProjetWeb2024" style="width:100%; display:block;" />
-
     <div style="padding:1rem;">
       <h3 style="margin:0 0 .5rem; font-size:1.25rem;">
         <a href="https://github.com/Noe932/ProjetWeb2024" target="_blank"
@@ -81,7 +79,7 @@ _Étudiant MIAGE_
         </a>
       </h3>
       <p style="margin:0 0 1rem; font-size:0.95rem; color:#57606a;">
-        Application de gestion de tactiques de foot en <strong>Dark Mode</strong>, avec création de joueurs et de formations.
+        Tactiques Pro Foot : dark mode, création de joueurs & formations.
       </p>
       <p style="margin:0 0 1rem;">
         <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
@@ -97,7 +95,7 @@ _Étudiant MIAGE_
     </div>
   </div>
 
-  <!-- Projet 2 -->
+  <!-- Projet-INFO -->
   <div style="flex:1 1 300px; border:1px solid #e1e4e8; border-radius:8px; padding:1rem; box-shadow:0 2px 8px rgba(0,0,0,0.05);">
     <h3 style="margin:0 0 .5rem; font-size:1.25rem;">
       <a href="https://github.com/Noe932/Projet-INFO" target="_blank"
