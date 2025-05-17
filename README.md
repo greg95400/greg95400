@@ -1,9 +1,7 @@
-Meneus Grégory
-Étudiant MIAGE 
+# Meneus Grégory  
+_Étudiant MIAGE_
 
 ---
-
-
 
 <p align="center">
   <a href="https://github.com/greg95400">
@@ -63,38 +61,63 @@ Meneus Grégory
   <img alt="Web Dev" src="https://img.shields.io/badge/Web%20Development-F1502F?logo=html5&logoColor=white" />
 </p>
 
-
 ---
 
 ## 🚀 Mes projets
 
 <div style="display:flex; gap:1rem; flex-wrap:wrap; margin-top:1rem;">
+
   <!-- Projet 1 -->
-  <div style="flex:1 1 250px; border:1px solid #e1e4e8; border-radius:8px; padding:1rem;">
-    <h3>
-      <a href="https://github.com/Noe932/ProjetWeb2024" target="_blank">
-        ProjetWeb2024
-      </a>
-    </h3>
-    <p>Site responsive en <strong>HTML/CSS/JS</strong>.</p>
-    <p>
-      <img src="https://img.shields.io/github/stars/Noe932/ProjetWeb2024?style=social" alt="Stars"/>
-      <img src="https://img.shields.io/github/forks/Noe932/ProjetWeb2024?style=social" alt="Forks"/>
-    </p>
+  <div style="flex:1 1 300px; border:1px solid #e1e4e8; border-radius:8px; overflow:hidden; box-shadow:0 2px 8px rgba(0,0,0,0.05);">
+    <!-- Image d’accueil -->
+    <img src="https://raw.githubusercontent.com/Noe932/ProjetWeb2024/main/assets/home.png"
+         alt="Accueil ProjetWeb2024" style="width:100%; display:block;" />
+
+    <div style="padding:1rem;">
+      <h3 style="margin:0 0 .5rem; font-size:1.25rem;">
+        <a href="https://github.com/Noe932/ProjetWeb2024" target="_blank"
+           style="text-decoration:none; color:#24292e;">
+          🔗 ProjetWeb2024
+        </a>
+      </h3>
+      <p style="margin:0 0 1rem; font-size:0.95rem; color:#57606a;">
+        Application de gestion de tactiques de foot en <strong>Dark Mode</strong>, avec création de joueurs et de formations.
+      </p>
+      <p style="margin:0 0 1rem;">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JS" />
+        <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" alt="Django" />
+      </p>
+      <p align="center" style="margin:1rem 0 0;">
+        <img src="https://raw.githubusercontent.com/Noe932/ProjetWeb2024/main/assets/create-player.png"
+             alt="Formulaire Créer Joueur" width="200"
+             style="border:1px solid #e1e4e8; border-radius:4px; box-shadow:0 1px 4px rgba(0,0,0,0.1);" />
+      </p>
+    </div>
   </div>
+
   <!-- Projet 2 -->
-  <div style="flex:1 1 250px; border:1px solid #e1e4e8; border-radius:8px; padding:1rem;">
-    <h3>
-      <a href="https://github.com/Noe932/Projet-INFO" target="_blank">
-        Projet-INFO
+  <div style="flex:1 1 300px; border:1px solid #e1e4e8; border-radius:8px; padding:1rem; box-shadow:0 2px 8px rgba(0,0,0,0.05);">
+    <h3 style="margin:0 0 .5rem; font-size:1.25rem;">
+      <a href="https://github.com/Noe932/Projet-INFO" target="_blank"
+         style="text-decoration:none; color:#24292e;">
+        🔗 Projet-INFO
       </a>
     </h3>
-    <p>Application de gestion de données en <strong>Java</strong>.</p>
-    <p>
-      <img src="https://img.shields.io/github/stars/Noe932/Projet-INFO?style=social" alt="Stars"/>
-      <img src="https://img.shields.io/github/forks/Noe932/Projet-INFO?style=social" alt="Forks"/>
+    <p style="margin:0 0 1rem; font-size:0.95rem; color:#57606a;">
+      Application de gestion de données en <strong>Java • Spring Boot</strong>.
+    </p>
+    <p style="margin:0 0 1rem;">
+      <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=spring&logoColor=white" alt="Spring Boot" />
+    </p>
+    <p style="margin:0;">
+      <img src="https://img.shields.io/github/stars/Noe932/Projet-INFO?style=social" alt="Stars" />
+      <img src="https://img.shields.io/github/forks/Noe932/Projet-INFO?style=social" alt="Forks" />
     </p>
   </div>
+
 </div>
 
 ---
