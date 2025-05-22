@@ -7,7 +7,7 @@ _Étudiant MIAGE_
   <a href="https://github.com/greg95400">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/gr%C3%A9ory-meneus-8379a5309/">
+  <a href="www.linkedin.com/in/grégory-meneus-8379a5309">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="mailto:gregory.meneus.pro@gmail.com">
