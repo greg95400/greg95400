@@ -1,4 +1,4 @@
-# Meneus Grégory  
+# MENEUS Grégory  
 _Étudiant MIAGE_
 
 ---
